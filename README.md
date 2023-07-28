@@ -17,3 +17,4 @@ The Dataset is taken from Kaggle. It consist of several medical predictor variab
 
 ## Deployment 
 -  Streamlit Cloud
+-  Streamlit Web app: https://diabetes-disease-classification.streamlit.app/
